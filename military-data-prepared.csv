@@ -1,0 +1,334 @@
+Location,Service,Women,Men
+Aberdeen Proving Ground,Army,2.8,0.4
+Ansbach (GR),Army,6.3,1
+Camp Arifjan (KU),Army,3.3,0.6
+"Camp Carroll, Waegwan (KS)",Army,5.7,0.8
+"Camp Casey, Dongduchon",Army,6.8,1.4
+"Camp Humphreys, Pyongteak",Army,5.8,0.9
+"Camp Red Cloud, Uijongbu City",Army,5.5,0.9
+"Camp Walker, Taegu",Army,5.6,0.8
+"Caserma Ederle, Vicenza (IT)",Army,5.4,1.2
+Fort Belvoir,Army,3,0.5
+Fort Benning,Army,6.3,1.7
+Fort Bliss,Army,6.7,1.3
+Fort Bragg,Army,6.5,1.2
+Fort Campbell,Army,6.7,1.4
+Fort Carson,Army,7.2,1.2
+Fort Detrick,Army,3.1,0.6
+Fort Drum,Army,8.3,1.7
+Fort Eustis,Army,5.9,1.1
+Fort George G. Meade,Army,3.3,0.6
+Fort Gordon,Army,4,0.8
+Fort Hood,Army,7,1.4
+Fort Huachuca,Army,8.6,1.1
+Fort Irwin,Army,6.9,1.4
+Fort Jackson,Army,4.4,0.9
+Fort Jonathan Wainwright,Army,5.8,1.6
+Fort Knox,Army,5.2,1.1
+Fort Leavenworth,Army,3.8,0.5
+Fort Lee,Army,4.9,0.9
+Fort Leonard Wood,Army,5.2,0.9
+Fort Lewis,Army,7.2,1.3
+Fort Myer,Army,3.7,1.7
+Fort Polk,Army,7,1.2
+Fort Richardson,Army,5.4,1.3
+Fort Riley,Army,7.6,1.5
+Fort Rucker,Army,4.7,0.6
+Fort Sam Houston,Army,4,0.7
+Fort Shafter,Army,2.9,0.5
+Fort Sill,Army,5.9,1.1
+Fort Stewart,Army,6.5,1.4
+Germany,Army,4.7,0.8
+"H D Smith Barracks,",Army,4.9,0.8
+Hunter Army Airfield,Army,7.1,1.1
+Kaiserslautern (GR),Army,5.4,0.9
+Lackland AFB,Army,4.5,0.9
+Landstuhl Med Ctr (GR),Army,4.4,0.8
+MacDill AFB,Army,2.4,0.3
+NNMC Bethesda,Army,2.4,0.4
+Okinawa (JA),Army,7.7,1.1
+Osan AB (KS),Army,8.5,1.4
+Postal Area 2,Army,2.4,0.4
+Postal Area 3,Army,3.5,0.6
+Postal Area 4,Army,2.1,0.4
+Postal Area 7,Army,2.5,0.6
+Postal Area 9,Army,2.4,0.4
+Presidio of Monterey,Army,6.6,0.9
+"Rose Barracks, Vilseck (GR)",Army,6.5,1.7
+Schofield Barracks,Army,4.8,1.1
+Sembach (GR),Army,4.3,0.7
+Shaw AFB,Army,2.4,0.4
+South Korea,Army,5.2,0.9
+Tokyo (JA),Army,3.8,0.6
+Tripler Army Med Ctr,Army,3.5,0.6
+United States,Army,2.9,0.9
+USAG Bavaria Tower Barracks,Army,5.8,1.2
+USAG Hohenfels (GR),Army,6.3,1.2
+USAG West Point,Army,4.6,0.7
+Wiesbaden (GR),Army,4.5,0.7
+Yongsan (KS),Army,5,0.8
+29 Palms MC Cmbt Ctr,Navy,3.2,1.3
+Annapolis NSA (Incl. USNA),Navy,3.1,0.5
+Bahrain,Navy,7.1,1.25
+Camp Lejeune MCB,Navy,3.8,1.3
+Camp Pendleton,Navy,3.6,1.2
+Coronado Nav Amphib Base,Navy,4.5,1
+Corry Station NTTC,Navy,7.8,1.2
+Dam Neck Trng Ctr Atlantic,Navy,4.7,0.7
+Fallon NAS,Navy,5.6,0.9
+Fleet ASW Trng Ctr Pacific,Navy,4,0.7
+Fort George G. Meade,Navy,4.3,0.8
+Fort Sam Houston,Navy,5.1,1
+Fort Story,Navy,3.7,0.7
+Guam,Navy,6.7,1.3
+Gulfport NCBC,Navy,5.2,0.9
+Jacksonville NAS,Navy,4.6,0.9
+Japan,Navy,13.5,3.1
+JB Anacostia-Bolling,Navy,3.5,0.5
+Kings Bay NAVSUBBASE,Navy,6.6,1.1
+Lemoore NAS,Navy,5.7,0.9
+Little Creek Nav Amphib Base,Navy,4.4,0.8
+Mayport NAVSTA,Navy,5.4,0.9
+MCBH Kaneohe Bay,Navy,7.8,1.1
+Meridian NAS,Navy,6,1.2
+Naples (IT),Navy,5.2,0.8
+Naval Hospital Bremerton,Navy,3.6,0.8
+Naval Hospital Pensacola,Navy,4.1,0.9
+Naval Med Ctr Portsmouth,Navy,3.8,1
+Naval Med Ctr San Diego,Navy,3.4,0.9
+Naval Station Great Lakes,Navy,6.1,1.2
+Naval Station Newport,Navy,3.9,0.7
+Naval Station Rota (SP),Navy,4.7,0.9
+NB Kitsap-Bangor,Navy,6.3,1.2
+NB Kitsap-Bremerton,Navy,5.3,0.7
+NB Pearl Harbor,Navy,4.1,1.1
+New London NAVSUBBASE,Navy,5.1,2
+NNMC Bethesda,Navy,2.8,0.7
+Norfolk NB,Navy,4.8,0.9
+North Island NAS,Navy,5.4,0.9
+NSA Charleston,Navy,17.1,2.4
+Oceana NAS,Navy,5.2,0.9
+Okinawa (JA),Navy,4,1
+Patuxent River NAS,Navy,4.7,0.7
+Pensacola NAS,Navy,5.8,0.9
+Port Hueneme NCBC,Navy,4.5,0.8
+Postal Area 2,Navy,2.9,0.6
+Postal Area 3,Navy,2.3,0.5
+Postal Area 9,Navy,3.9,0.8
+Point Mugu NAS,Navy,6.2,0.9
+San Diego NAVSTA,Navy,5.1,0.9
+San Diego NAVSUBBASE,Navy,3.9,0.9
+Sigonella (IT),Navy,6.3,1.2
+Tinker AFB,Navy,8.2,1.2
+United States,Navy,6.8,1.4
+USS Abraham Lincoln,Navy,11,2.2
+USS Carl Vinson,Navy,8.5,2
+USS Dwight D. Eisenhower,Navy,8.3,1.8
+USS George H. W. Bush,Navy,11.2,3.2
+USS George Washington,Navy,15.7,3.4
+USS Harry S. Truman,Navy,11.6,2.6
+USS John C. Stennis,Navy,11.1,2.6
+USS Nimitz,Navy,12.4,2.3
+USS Ronald Reagan,Navy,10.1,1.8
+USS Theodore Roosevelt,Navy,12.1,3
+Various AE Aviation Squadrons,Navy,9,1.7
+"Various AE Ships 09578: USNS 1st Lt Harry L Martin TAK 3015, USNS William McLean TAKE 12, USS Mahan DDG 72, USS Maryland SSBN 738, USS Mason DDG 87, USS McFaul DDG 74, USS Mesa Verde LPD 19, USS Minnesota SSN 783, USS Missouri SSN 780, USS Mitscher DDG 57, USS Monsoon PC4, USS Monterey CG 61, USS Montpelier SSN 765",Navy,11.8,2.8
+"Various AP Ships 96660: USNS Able TAGOS 20, USS Albuquerque SSN 706, USS America LHA 6, USS Anchorage LPD 23, USS Antietam CG 54, USS Ardent MCM 12, USS Asheville SSN 758, USS Ashland LSD 48",Navy,8.9,2.5
+"Various AP Ships 96661: USNS 2nd Lt John P Bobo TAK 3008, USNS Bowditch TAGS 62, USNS Brittin TAKR 305, USNS Carl Brashear TAKE 7, USNS Richard E. Byrd TAKE 4, USNS Sgt William R Button TAKE 3012, USS Benfold DDG 65, USS Boxer LHD 4, USS Bremerton SSN 698, USS Buffalo SSN 715, USS Bunker Hill CG 52",Navy,12.1,2.9
+"Various AP Ships 96662: Mv Ssg Edward A Carter Jr TAK 4544, USNS Catawba TATF 168, USNS Cesar Chavez TAKE 14, USNS Charlton TAKR 314, USNS Washington Chambers TAKE 11, USS Cape St George CG 71, USS Chafee DDG 90, USS Champion MCM 4, USS Chancellorsville CG 62, USS Charlotte SSN 766, USS Cheyenne SSN 773, USS Chicago SSN 721, USS Chief MCM 14, USS Chosin CG 65, USS Chung-Hoon DDG 93, USS City Of Corpus Christi SSN 705, USS Columbia SSN 771, USS Columbus SSN 762, USS Comstock LSD 45, USS Connecticut SSN 22, USS Coronado LCS 4, USS Cowpens CG 63",Navy,12.5,3.3
+"Various AP Ships 96667: USNS Bruce C Heezen TAGS 64, USS Emory S Land As 39, USS Halsey DDG 97, USS Hawaii SSN 776, USS Higgins DDG 76, USS Hopper DDG 70, USS Houston SSN 713, USS Howard DDG 83, USS Paul Hamilton DDG 60, USS Pearl Harbor LSD 52",Navy,13.7,2.7
+"Various AP Ships 96672: USNS Mendonca TAKR 303, USNS Mercy T-AH-19, USNS Millinocket T-EPF 3, USNS Montford Point T-ESD 1, USS John S Mccain DDG 56, USS Maine SSBN 741, USS Makin Island LHD 8, USS Mccampbell DDG 85, USS Michael Murphy DDG 112, USS Milius DDG 69, USS Mississippi SSN 782, USS Mobile Bay CG 53, USS Momsen DDG 92, USS Mustin DDG 89",Navy,9.3,2
+"Various AP Ships 96678: SBX-1, USNS Alan Shepard TAKE 3, USNS Gysgt Fred W Stockham TAK 3017, USNS Mary Sears TAGS 65, USNS Sacagawea TAKE 2, USNS Salvor TARS 52, USNS Sioux TATF 171, USNS Sumner TAGS 61, USNS Wally Schirra TAKE 8, USS Sampson DDG 102, USS San Diego LPD 22, USS Santa Fe SSN 763, USS Scout MCM 8, USS Seawolf SSN 21, USS Shiloh CG 67, USS Shoup DDG 86, USS Somerset LPD 25, USS Spruance DDG 111, USS Sterett DDG 104, USS Stethem DDG 63, USS Stockdale DDG 106",Navy,11.1,2.8
+Various East Coast Squadrons,Navy,8.8,1.5
+Various West Coast Squadrons,Navy,8.2,1.7
+Washington NAVDIST HQ,Navy,2.3,0.7
+Whidbey Island NAS,Navy,6.9,1.1
+Whiting Field NAS,Navy,4.6,0.6
+Yokosuka (JA),Navy,4.4,0.8
+Altus AFB,Air Force,4.7,0.7
+Andrews AFB,Air Force,2.3,0.3
+Aviano AB (IT),Air Force,3.5,0.5
+Barksdale AFB,Air Force,2.8,0.3
+Beale AFB,Air Force,3.2,0.3
+Buckley AFB,Air Force,2.9,0.4
+Cannon AFB,Air Force,4,0.4
+Charleston AFB,Air Force,3.5,0.4
+Columbus AFB,Air Force,4.6,0.5
+Creech AFB,Air Force,3.8,0.4
+Davis-Monthan AFB,Air Force,2.9,0.4
+Dover AFB,Air Force,3.5,0.4
+Dyess AFB,Air Force,3.3,0.4
+Edwards AFB,Air Force,3.1,0.3
+Eglin AFB,Air Force,2.3,0.3
+Eielson AFB,Air Force,3.7,0.4
+Ellsworth AFB,Air Force,3.4,0.4
+Elmendorf AFB,Air Force,2.8,0.4
+Fairchild AFB,Air Force,3.5,0.4
+Fort George G. Meade,Air Force,2.9,0.3
+Fort Gordon,Air Force,4.1,0.4
+Francis E Warren AFB,Air Force,3.9,0.5
+Geilenkirchen NATO AB (GR),Air Force,2.3,0.3
+Goodfellow AFB,Air Force,4.5,0.4
+Grand Forks AFB,Air Force,3.5,0.5
+Guam,Air Force,3.5,0.4
+Hanscom AFB,Air Force,3.3,0.3
+Hickam AFB,Air Force,3.2,0.3
+Hill AFB,Air Force,3.1,0.4
+Holloman AFB,Air Force,3.1,0.4
+Hurlburt Field,Air Force,3.7,0.4
+"Incirlik AB, Adana (TU)",Air Force,3.6,0.5
+JB Anacostia-Bolling,Air Force,2.4,0.6
+Keesler AFB,Air Force,2.9,0.4
+Kirtland AFB,Air Force,3.4,0.4
+Kunsan AB (KS),Air Force,4,0.4
+Lackland AFB,Air Force,2.9,0.4
+"Lajes Field, Terceira Azores",Air Force,2.8,0.3
+Langley AFB,Air Force,2.7,0.3
+Laughlin AFB,Air Force,5.2,0.6
+Little Rock AFB,Air Force,2.9,0.4
+Los Angeles AFB,Air Force,2.5,0.3
+Luke AFB,Air Force,3.6,0.6
+MacDill AFB,Air Force,2.8,0.4
+Malmstrom AFB,Air Force,4.5,0.5
+Marine Barracks Wash. D.C.,Air Force,1.7,0.2
+Maxwell AFB (Incl. Gunter),Air Force,2.5,0.3
+McChord AFB,Air Force,3.4,0.4
+McConnell AFB,Air Force,3.5,0.4
+McGuire AFB,Air Force,3.3,0.4
+Minot AFB,Air Force,4,0.5
+Misawa AB (JA),Air Force,3.4,0.4
+Missing,Air Force,3.3,0.3
+Moody AFB,Air Force,2.8,0.4
+Mountain Home AFB,Air Force,3.1,0.4
+Nellis AFB,Air Force,2.3,0.3
+Offutt AFB,Air Force,2.7,0.3
+Okinawa (JA),Air Force,2.9,0.4
+Osan AB (KS),Air Force,3.7,0.4
+Patrick AFB,Air Force,3.2,0.3
+Pensacola NAS,Air Force,3.2,0.3
+Peterson AFB,Air Force,2.3,0.3
+Pope AFB,Air Force,2.9,0.4
+Postal Area 2,Air Force,2.3,0.3
+Postal Area 3,Air Force,2.1,0.3
+Presidio of Monterey,Air Force,4,0.4
+RAF Lakenheath (UK),Air Force,3.3,0.4
+RAF Mildenhall (UK),Air Force,3.4,0.4
+Ramstein (GR),Air Force,3.2,0.4
+Randolph AFB,Air Force,2.1,0.3
+Robins AFB,Air Force,3,0.4
+Schriever AFB,Air Force,2.6,0.3
+Scott AFB,Air Force,2.3,0.3
+Seymour Johnson AFB,Air Force,2.9,0.4
+Shaw AFB,Air Force,3,0.4
+Sheppard AFB,Air Force,3.4,0.4
+Spangdahlem AB (GR),Air Force,3.5,0.4
+Tinker AFB,Air Force,3.2,0.4
+Travis AFB,Air Force,2.8,0.4
+Tyndall AFB,Air Force,3,0.3
+United States,Air Force,1.3,0.2
+USAF Academy,Air Force,2.9,0.5
+Vance AFB,Air Force,5.2,0.5
+Vandenberg AFB,Air Force,3.4,0.4
+Whiteman AFB,Air Force,3.5,0.4
+Wright-Patterson AFB,Air Force,2.3,0.3
+Yokota AB (JA),Air Force,2.8,0.4
+USMC Mobile 1st Marine,USMC,8.6,0.7
+29 Palms MC Cmbt Ctr,USMC,10.1,1.3
+Afghanistan,USMC,8.4,1.2
+Beaufort MCAS,USMC,9.9,1.1
+Camp Lejeune MCB,USMC,7.9,1.2
+Camp Pendleton,USMC,7.1,1
+Cherry Point MCAS,USMC,8.6,0.9
+MCAS Miramar,USMC,7.6,0.8
+MCBH Kaneohe Bay,USMC,7.4,1
+MCCDC Quantico VA,USMC,5.4,0.5
+New River MCAS,USMC,9.4,0.9
+Okinawa (JA),USMC,8,0.8
+Parris Island MCRD,USMC,7.7,1
+Pensacola NAS,USMC,9.2,0.8
+United States,USMC,7.6,0.9
+USMC Mobile 3rd MEF,USMC,6.3,0.6
+USMC Mobile 3rd MLG,USMC,9.4,0.9
+Yuma MCAS,USMC,11.5,0.9
+21st Theater Support,Army,5.6,0.9
+Army Sustainment Command,Army,2.3,0.3
+Contracting Command,Army,1.9,0.3
+DoD Agencies (DoD),Army,2.3,0.4
+FOAS Resourced by,Army,3.6,0.5
+FORSCOM Ground Forces,Army,1.8,0.3
+Joint Activities (Less NATO),Army,2,0.3
+Military Entrance Processing,Army,2.4,0.4
+Missing MCC (ZZZ),Army,5.8,1
+Second Army,Army,3.8,0.7
+Supreme HQ Allied Powers Eur,Army,2.2,0.4
+U.S. Army Medical Command,Army,3.6,0.7
+U.S. Military Academy (USMA),Army,4.7,0.7
+Unknown MCC AFL,Army,4.4,0.8
+TRADOC,Army,5.1,1.1
+BUMED,Navy,3.5,0.9
+BUPERS,Navy,3.1,0.6
+CNI,Navy,5.4,1.1
+CNO,Navy,3,0.4
+Central Operating Activity,Navy,2.5,0.5
+NAVAIR,Navy,3.5,0.4
+NAVFAC,Navy,3.3,0.5
+NAVSUP,Navy,4,0.6
+Navy Secretariat and Staff,Navy,2.7,0.5
+NETC,Navy,7.1,1.4
+Office of Naval Intelligence,Navy,4.3,0.7
+SPECWAR,Navy,3,0.8
+Unknown MCC N28,Navy,2.5,0.4
+US Fleet Forces Command,Navy,7.9,1.8
+US Pacific Fleet,Navy,9.5,2
+USMC,Navy,3.8,1.3
+USNR,Navy,4.7,0.8
+AF District of Washington,Air Force,2.4,0.4
+AF Elements,Air Force,2.2,0.2
+AF Elements���NATO,Air Force,1.9,0.3
+AF ISR Agency,Air Force,3.5,0.4
+AF Legal OP Agency,Air Force,1.9,0.3
+AF Materiel Cmd,Air Force,2.6,0.3
+AF Off Spec Investigations,Air Force,2.6,0.3
+AF Personnel Ctr,Air Force,1.5,0.2
+AF Spec Opns Cmd,Air Force,3.6,0.4
+AFELM DIA,Air Force,1.9,0.2
+AFELM OSD,Air Force,2.3,0.3
+AFELM US Pacific Command,Air Force,1.7,0.2
+AFELM USSTRATCOM,Air Force,1.6,0.2
+Air Combat Cmd,Air Force,2.9,0.4
+Air Education and Training,Air Force,3.2,0.4
+Air Mobility Cmd,Air Force,3.1,0.4
+Global Strike Command,Air Force,3.6,0.5
+HQ AF Weather Agency,Air Force,3.1,0.3
+HQ Air Force Space Command,Air Force,2.7,0.3
+HQ USAF and Support,Air Force,1.3,0.2
+Pacific Air Forces,Air Force,3.2,0.4
+US Air Force Academy,Air Force,2.8,0.5
+US Air Forces in Europe,Air Force,3.3,0.4
+MCC No. 007,USMC,4.3,0.4
+MCC No. 011,USMC,4.3,0.3
+MCC No. 012,USMC,6.9,0.8
+MCC No. 013,USMC,7.1,0.8
+MCC No. 014,USMC,6.9,1
+MCC No. 015,USMC,6.8,0.7
+MCC No. 016,USMC,7.7,1.1
+MCC No. 022,USMC,9.3,0.9
+MCC No. 023,USMC,4.5,0.6
+MCC No. 082,USMC,4.4,0.5
+MCC No. 092,USMC,7.2,0.7
+MCC No. 121,USMC,8.6,1.6
+MCC No. 122,USMC,8.2,1.6
+MCC No. 142,USMC,9,0.9
+MCC No. 143,USMC,9.4,0.9
+MCC No. 145,USMC,8.6,0.7
+MCC No. 151,USMC,8,0.9
+MCC No. 169,USMC,6.9,0.7
+MCC No. 1C0,USMC,5.6,0.6
+MCC No. 1C1,USMC,6.8,0.6
+MCC No. 1C2,USMC,9.4,0.9
+MCC No. 1F1,USMC,7.7,1
+MCC No. 1F2,USMC,7.8,0.7
+MCC No. G78,USMC,9.1,0.8
+MCC No. J15,USMC,8.5,1.1
+MCC No. K18,USMC,14.2,1.2
+MCC No. ZZZ,USMC,7.9,1

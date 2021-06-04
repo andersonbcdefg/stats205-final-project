@@ -1,0 +1,813 @@
+Service,Gender,Installation or Command Location,Avg. Pop. (FY14),Sexual Assault Risk,Estimated Sexual Assaults,Installation- Specific Risk
+Army,Women,Aberdeen Proving Ground,177,2.80%,5,-0.60%
+Army,Women,Ansbach (GR),255,6.30%,16,-1.00%
+Army,Women,"Army Depot, Miesau (GR)",115,6.20%,7,0.30%
+Army,Women,Camp Arifjan (KU),147,3.30%,5,-0.30%
+Army,Women,"Camp Carroll, Waegwan (KS)",163,5.70%,9,-0.30%
+Army,Women,"Camp Casey, Dongduchon",555,6.80%,38,-0.30%
+Army,Women,"Camp Humphreys, Pyongteak",571,5.80%,33,-1.10%
+Army,Women,"Camp Red Cloud, Uijongbu City",218,5.50%,12,-0.20%
+Army,Women,"Camp Walker, Taegu",241,5.60%,14,-0.40%
+Army,Women,"Caserma Ederle, Vicenza (IT)",320,5.40%,17,-0.50%
+Army,Women,Fort Belvoir,783,3.00%,23,-0.80%
+Army,Women,Fort Benning,1376,6.30%,87,0.90%
+Army,Women,Fort Bliss,3655,6.70%,246,0.50%
+Army,Women,Fort Bragg,5552,6.50%,361,0.80%
+Army,Women,Fort Campbell,3176,6.70%,211,0.50%
+Army,Women,Fort Carson,2880,7.20%,207,0.60%
+Army,Women,Fort Detrick,193,3.10%,6,-0.60%
+Army,Women,Fort Drum,1664,8.30%,137,1.80%
+Army,Women,Fort Eustis,885,5.90%,53,0.00%
+Army,Women,Fort George G. Meade,724,3.30%,24,-1.90%
+Army,Women,Fort Gordon,1678,4.00%,67,-1.50%
+Army,Women,Fort Hood,5910,7.00%,412,0.70%
+Army,Women,Fort Huachuca,698,8.60%,60,0.10%
+Army,Women,Fort Irwin,509,6.90%,35,1.30%
+Army,Women,Fort Jackson,2046,4.40%,90,-1.40%
+Army,Women,Fort Jonathan Wainwright,492,5.80%,28,0.00%
+Army,Women,Fort Knox,934,5.20%,48,0.20%
+Army,Women,Fort Leavenworth,483,3.80%,18,-0.20%
+Army,Women,Fort Lee,1495,4.90%,74,-1.00%
+Army,Women,Fort Leonard Wood,1572,5.20%,82,-1.20%
+Army,Women,Fort Lewis,3875,7.20%,278,1.40%
+Army,Women,Fort Myer,183,3.70%,7,-0.80%
+Army,Women,Fort Polk,976,7.00%,68,0.50%
+Army,Women,Fort Richardson,621,5.40%,34,-0.70%
+Army,Women,Fort Riley,2010,7.60%,153,1.00%
+Army,Women,Fort Rucker,407,4.70%,19,-0.50%
+Army,Women,Fort Sam Houston,2333,4.00%,94,-0.60%
+Army,Women,Fort Shafter,526,2.90%,15,-1.20%
+Army,Women,Fort Sill,1581,5.90%,93,-0.80%
+Army,Women,Fort Stewart,2491,6.50%,161,0.30%
+Army,Women,Germany,144,4.70%,7,-1.30%
+Army,Women,"H D Smith Barracks,",314,4.90%,16,-1.40%
+Army,Women,Hunter Army Airfield,557,7.10%,39,0.60%
+Army,Women,Kaiserslautern (GR),427,5.40%,23,-0.50%
+Army,Women,Lackland AFB,102,4.50%,5,-1.60%
+Army,Women,Landstuhl Med Ctr (GR),322,4.40%,14,-0.40%
+Army,Women,MacDill AFB,142,2.40%,3,-1.10%
+Army,Women,NNMC Bethesda,525,2.40%,12,-0.90%
+Army,Women,Okinawa (JA),127,7.70%,10,1.30%
+Army,Women,Osan AB (KS),110,8.50%,9,1.00%
+Army,Women,Postal Area 2,504,2.40%,12,-0.80%
+Army,Women,Postal Area 3,234,3.50%,8,-0.70%
+Army,Women,Postal Area 4,129,2.10%,3,-0.60%
+Army,Women,Postal Area 7,131,2.50%,3,-0.90%
+Army,Women,Postal Area 9,149,2.40%,4,-0.90%
+Army,Women,Presidio of Monterey,386,6.60%,25,-2.10%
+Army,Women,"Rose Barracks, Vilseck (GR)",441,6.50%,29,-0.40%
+Army,Women,Schofield Barracks,2105,4.80%,102,-1.50%
+Army,Women,Sembach (GR),153,4.30%,7,-0.70%
+Army,Women,Shaw AFB,232,2.40%,6,-1.00%
+Army,Women,South Korea,532,5.20%,27,-0.30%
+Army,Women,Tokyo (JA),122,3.80%,5,-1.00%
+Army,Women,Tripler Army Med Ctr,679,3.50%,24,-0.10%
+Army,Women,United States,1157,2.90%,33,-0.50%
+Army,Women,USAG Bavaria Tower Barracks,269,5.80%,16,-0.60%
+Army,Women,USAG Hohenfels (GR),114,6.30%,7,-0.40%
+Army,Women,USAG West Point,255,4.60%,12,0.00%
+Army,Women,Wiesbaden (GR),432,4.50%,19,-1.00%
+Army,Women,Yongsan (KS),819,5.00%,41,-0.70%
+Army,Men,Aberdeen Proving Ground,706,0.40%,3,0.00%
+Army,Men,Ansbach (GR),1564,1.00%,16,0.00%
+Army,Men,Camp Arifjan (KU),644,0.60%,4,0.00%
+Army,Men,"Camp Carroll, Waegwan (KS)",595,0.80%,5,0.00%
+Army,Men,"Camp Casey, Dongduchon",4251,1.40%,58,0.00%
+Army,Men,"Camp Humphreys, Pyongteak",3143,0.90%,29,-0.10%
+Army,Men,"Camp Red Cloud, Uijongbu City",1341,0.90%,12,0.00%
+Army,Men,"Camp Walker, Taegu",763,0.80%,6,0.00%
+Army,Men,Carlisle Barracks,427,0.30%,1,0.00%
+Army,Men,"Caserma Ederle, Vicenza (IT)",2504,1.20%,30,0.00%
+Army,Men,Eglin AFB,1895,0.70%,13,-0.20%
+Army,Men,Fort Belvoir,2698,0.50%,14,-0.10%
+Army,Men,Fort Benning,18869,1.70%,314,0.10%
+Army,Men,Fort Bliss,22745,1.30%,292,0.00%
+Army,Men,Fort Bragg,41224,1.20%,476,0.00%
+Army,Men,Fort Campbell,27126,1.40%,367,0.00%
+Army,Men,Fort Carson,22938,1.20%,268,-0.10%
+Army,Men,Fort Detrick,691,0.60%,4,-0.10%
+Army,Men,Fort Dix,354,0.40%,1,-0.10%
+Army,Men,Fort Drum,15266,1.70%,257,0.30%
+Army,Men,Fort Eustis,4220,1.10%,47,0.00%
+Army,Men,Fort George G. Meade,2813,0.60%,16,-0.10%
+Army,Men,Fort Gordon,6611,0.80%,53,-0.20%
+Army,Men,Fort Hood,33775,1.40%,473,0.10%
+Army,Men,Fort Huachuca,3399,1.10%,38,0.00%
+Army,Men,Fort Irwin,3335,1.40%,45,0.20%
+Army,Men,Fort Jackson,5599,0.90%,53,-0.20%
+Army,Men,Fort Jonathan Wainwright,5331,1.60%,84,0.00%
+Army,Men,Fort Knox,5626,1.10%,64,0.10%
+Army,Men,Fort Leavenworth,3030,0.50%,17,-0.10%
+Army,Men,Fort Lee,5076,0.90%,44,-0.20%
+Army,Men,Fort Leonard Wood,7454,0.90%,68,-0.20%
+Army,Men,Fort Leslie J Mcnair,393,0.30%,1,0.00%
+Army,Men,Fort Lewis,25735,1.30%,331,0.10%
+Army,Men,Fort Myer,1992,1.70%,34,0.10%
+Army,Men,Fort Polk,6937,1.20%,85,0.00%
+Army,Men,Fort Richardson,5979,1.30%,76,0.00%
+Army,Men,Fort Riley,15181,1.50%,222,0.10%
+Army,Men,Fort Rucker,3164,0.60%,18,-0.10%
+Army,Men,Fort Sam Houston,6213,0.70%,44,0.00%
+Army,Men,Fort Shafter,2129,0.50%,12,-0.10%
+Army,Men,Fort Sill,8375,1.10%,94,-0.10%
+Army,Men,Fort Stewart,14265,1.40%,198,0.10%
+Army,Men,Germany,665,0.80%,5,-0.10%
+Army,Men,Goodfellow AFB,506,1.40%,7,0.00%
+Army,Men,"H D Smith Barracks,",1350,0.80%,11,-0.10%
+Army,Men,Hickam AFB,450,0.60%,3,-0.10%
+Army,Men,Hunter Army Airfield,4264,1.10%,48,-0.10%
+Army,Men,Italy,491,1.80%,9,0.30%
+Army,Men,Kaiserslautern (GR),1846,0.90%,16,0.10%
+Army,Men,Lackland AFB,398,0.90%,4,-0.10%
+Army,Men,Landstuhl Med Ctr (GR),868,0.80%,7,0.10%
+Army,Men,MacDill AFB,1203,0.30%,4,-0.10%
+Army,Men,NNMC Bethesda,824,0.40%,4,-0.10%
+Army,Men,Okinawa (JA),1056,1.10%,12,0.10%
+Army,Men,Osan AB (KS),573,1.40%,8,0.20%
+Army,Men,"Panzer Kaserne, Boblingen (GR)",688,0.80%,6,-0.10%
+Army,Men,Pentagon,402,0.30%,1,-0.10%
+Army,Men,Peterson AFB,311,0.50%,2,-0.10%
+Army,Men,Postal Area 0,398,0.40%,1,-0.10%
+Army,Men,Postal Area 1,566,0.50%,3,-0.10%
+Army,Men,Postal Area 2,2797,0.40%,10,-0.10%
+Army,Men,Postal Area 3,2058,0.60%,13,-0.10%
+Army,Men,Postal Area 4,1010,0.40%,4,-0.10%
+Army,Men,Postal Area 5,446,0.50%,2,-0.20%
+Army,Men,Postal Area 6,652,0.40%,3,-0.20%
+Army,Men,Postal Area 7,1233,0.60%,8,-0.10%
+Army,Men,Postal Area 8,930,0.50%,5,-0.10%
+Army,Men,Postal Area 9,1442,0.40%,6,-0.10%
+Army,Men,Presidio of Monterey,1501,0.90%,14,-0.10%
+Army,Men,Redstone Arsenal,540,0.40%,2,0.00%
+Army,Men,Rock Island Arsenal,311,0.30%,1,0.00%
+Army,Men,"Rose Barracks, Vilseck (GR)",4929,1.70%,82,0.10%
+Army,Men,Sacramento Army Depot,286,0.30%,1,0.00%
+Army,Men,Schofield Barracks,13355,1.10%,152,-0.10%
+Army,Men,Schweinfurt (GR),456,0.90%,4,-0.20%
+Army,Men,Sembach (GR),541,0.70%,4,0.00%
+Army,Men,Shape Casteau (BE),290,0.60%,2,0.00%
+Army,Men,Shaw AFB,943,0.40%,4,-0.10%
+Army,Men,South Korea,2374,0.90%,21,0.00%
+Army,Men,"Storck Barracks, Illesheim (GR)",866,1.00%,9,-0.10%
+Army,Men,Tokyo (JA),694,0.60%,4,-0.10%
+Army,Men,Tripler Army Med Ctr,1396,0.60%,9,0.00%
+Army,Men,United States,6685,0.90%,57,0.00%
+Army,Men,Unknown AP,612,1.30%,8,0.20%
+Army,Men,USAG Bavaria Tower Barracks,2396,1.20%,28,0.00%
+Army,Men,USAG Hohenfels (GR),1415,1.20%,17,0.00%
+Army,Men,USAG West Point,1340,0.70%,10,0.00%
+Army,Men,Vaihingen (GR),495,0.50%,2,-0.10%
+Army,Men,Walter Reed Army Med Ctr,188,0.30%,1,0.00%
+Army,Men,Wiesbaden (GR),2472,0.70%,16,-0.10%
+Army,Men,Yongsan (KS),3242,0.80%,27,-0.10%
+Navy,Women,29 Palms MC Cmbt Ctr,135,3.20%,4,-0.20%
+Navy,Women,Annapolis NSA (Incl. USNA),207,3.10%,6,-1.00%
+Navy,Women,Bahrain,425,7.10%,30,-0.90%
+Navy,Women,Beaufort MCAS,202,5.20%,10,0.40%
+Navy,Women,Camp Lejeune MCB,569,3.80%,21,-0.20%
+Navy,Women,Camp Pendleton,639,3.60%,23,-0.30%
+Navy,Women,Coronado Nav Amphib Base,506,4.50%,23,-0.60%
+Navy,Women,Corry Station NTTC,381,7.80%,30,-3.10%
+Navy,Women,Dam Neck Trng Ctr Atlantic,385,4.70%,18,-0.90%
+Navy,Women,Fallon NAS,115,5.60%,6,-0.40%
+Navy,Women,Fleet ASW Trng Ctr Pacific,205,4.00%,8,-0.40%
+Navy,Women,Fort George G. Meade,507,4.30%,22,-1.70%
+Navy,Women,Fort Gordon,387,6.90%,27,-0.60%
+Navy,Women,Fort Sam Houston,634,5.10%,32,-1.70%
+Navy,Women,Fort Story,292,3.70%,11,-0.80%
+Navy,Women,Guam,353,6.70%,24,0.70%
+Navy,Women,Guantanamo Bay (CU),120,5.60%,7,-1.50%
+Navy,Women,Gulfport NCBC,262,5.20%,14,-1.20%
+Navy,Women,Jacksonville NAS,1125,4.60%,52,-1.00%
+Navy,Women,Japan,372,13.50%,50,4.80%
+Navy,Women,JB Anacostia-Bolling,112,3.50%,4,-0.60%
+Navy,Women,Kings Bay NAVSUBBASE,183,6.60%,12,-1.20%
+Navy,Women,Lackland AFB,226,7.50%,17,-0.90%
+Navy,Women,Lemoore NAS,547,5.70%,31,-1.10%
+Navy,Women,Little Creek Nav Amphib Base,610,4.40%,27,-0.80%
+Navy,Women,Mayport NAVSTA,420,5.40%,22,-0.70%
+Navy,Women,MCBH Kaneohe Bay,195,7.80%,15,1.20%
+Navy,Women,Meridian NAS,156,6.00%,9,-1.60%
+Navy,Women,Naples (IT),391,5.20%,20,-0.40%
+Navy,Women,Naval Hospital Bremerton,202,3.60%,7,-1.10%
+Navy,Women,Naval Hospital Pensacola,238,4.10%,10,-0.30%
+Navy,Women,Naval Med Ctr Portsmouth,1233,3.80%,47,-1.10%
+Navy,Women,Naval Med Ctr San Diego,1112,3.40%,38,-1.00%
+Navy,Women,Naval Station Everett,149,5.70%,8,-1.30%
+Navy,Women,Naval Station Great Lakes,2490,6.10%,152,-2.70%
+Navy,Women,Naval Station Newport,366,3.90%,14,-0.90%
+Navy,Women,Naval Station Rota (SP),228,4.70%,11,-1.20%
+Navy,Women,NAVCAMS E. Pacific,127,6.90%,9,-0.80%
+Navy,Women,Navy Mobile Units - AA,699,5.90%,41,-0.90%
+Navy,Women,Navy Mobile Units - AE,152,5.70%,9,0.20%
+Navy,Women,NB Kitsap-Bangor,242,6.30%,15,-1.40%
+Navy,Women,NB Kitsap-Bremerton,134,5.30%,7,-1.00%
+Navy,Women,NB Pearl Harbor,576,4.10%,23,-0.90%
+Navy,Women,New London NAVSUBBASE,141,5.10%,7,-0.60%
+Navy,Women,NNMC Bethesda,823,2.80%,23,-1.00%
+Navy,Women,Norfolk NB,3359,4.80%,162,-1.30%
+Navy,Women,North Island NAS,1371,5.40%,74,-0.80%
+Navy,Women,NSA Charleston,501,17.10%,85,3.50%
+Navy,Women,Oceana NAS,861,5.20%,45,-1.60%
+Navy,Women,Okinawa (JA),313,4.00%,13,-1.30%
+Navy,Women,Patuxent River NAS,280,4.70%,13,-1.20%
+Navy,Women,Pensacola NAS,1045,5.80%,61,-3.20%
+Navy,Women,Port Hueneme NCBC,173,4.50%,8,-0.70%
+Navy,Women,Postal Area 2,427,2.90%,13,-0.50%
+Navy,Women,Postal Area 3,222,2.30%,5,-0.50%
+Navy,Women,Postal Area 9,134,3.90%,5,-0.20%
+Navy,Women,Presidio of Monterey,218,7.00%,15,-4.40%
+Navy,Women,Point Mugu NAS,122,6.20%,8,0.20%
+Navy,Women,San Diego NAVSTA,1478,5.10%,76,-0.90%
+Navy,Women,San Diego NAVSUBBASE,166,3.90%,7,-0.70%
+Navy,Women,Sigonella (IT),288,6.30%,18,-0.60%
+Navy,Women,Tinker AFB,197,8.20%,16,0.60%
+Navy,Women,United States,3097,6.80%,210,0.30%
+Navy,Women,USS Abraham Lincoln,616,11.00%,68,2.60%
+Navy,Women,USS Carl Vinson,503,8.50%,43,0.20%
+Navy,Women,USS Dwight D. Eisenhower,764,8.30%,63,-1.30%
+Navy,Women,USS George H. W. Bush,687,11.20%,77,0.70%
+Navy,Women,USS George Washington,508,15.70%,80,2.80%
+Navy,Women,USS Harry S. Truman,685,11.60%,79,0.60%
+Navy,Women,USS John C. Stennis,508,11.10%,56,2.20%
+Navy,Women,USS Nimitz,643,12.40%,80,0.90%
+Navy,Women,USS Ronald Reagan,772,10.10%,78,1.10%
+Navy,Women,USS Theodore Roosevelt,772,12.10%,93,2.80%
+Navy,Women,USS Wasp,217,7.60%,17,0.70%
+Navy,Women,Various AE Aviation Squadrons,193,9.00%,17,1.60%
+Navy,Women,"Various AE Ships 09578: USNS 1st Lt Harry L Martin TAK 3015, USNS William McLean TAKE 12, USS Mahan DDG 72, USS Maryland SSBN 738, USS Mason DDG 87, USS McFaul DDG 74, USS Mesa Verde LPD 19, USS Minnesota SSN 783, USS Missouri SSN 780, USS Mitscher DDG 57, USS Monsoon PC4, USS Monterey CG 61, USS Montpelier SSN 765",296,11.80%,35,3.50%
+Navy,Women,"Various AP Ships 96660: USNS Able TAGOS 20, USS Albuquerque SSN 706, USS America LHA 6, USS Anchorage LPD 23, USS Antietam CG 54, USS Ardent MCM 12, USS Asheville SSN 758, USS Ashland LSD 48",291,8.90%,26,1.90%
+Navy,Women,"Various AP Ships 96661: USNS 2nd Lt John P Bobo TAK 3008, USNS Bowditch TAGS 62, USNS Brittin TAKR 305, USNS Carl Brashear TAKE 7, USNS Richard E. Byrd TAKE 4, USNS Sgt William R Button TAKE 3012, USS Benfold DDG 65, USS Boxer LHD 4, USS Bremerton SSN 698, USS Buffalo SSN 715, USS Bunker Hill CG 52",299,12.10%,36,4.30%
+Navy,Women,"Various AP Ships 96662: Mv Ssg Edward A Carter Jr TAK 4544, USNS Catawba TATF 168, USNS Cesar Chavez TAKE 14, USNS Charlton TAKR 314, USNS Washington Chambers TAKE 11, USS Cape St George CG 71, USS Chafee DDG 90, USS Champion MCM 4, USS Chancellorsville CG 62, USS Charlotte SSN 766, USS Cheyenne SSN 773, USS Chicago SSN 721, USS Chief MCM 14, USS Chosin CG 65, USS Chung-Hoon DDG 93, USS City Of Corpus Christi SSN 705, USS Columbia SSN 771, USS Columbus SSN 762, USS Comstock LSD 45, USS Connecticut SSN 22, USS Coronado LCS 4, USS Cowpens CG 63",311,12.50%,39,5.10%
+Navy,Women,"Various AP Ships 96667: USNS Bruce C Heezen TAGS 64, USS Emory S Land As 39, USS Halsey DDG 97, USS Hawaii SSN 776, USS Higgins DDG 76, USS Hopper DDG 70, USS Houston SSN 713, USS Howard DDG 83, USS Paul Hamilton DDG 60, USS Pearl Harbor LSD 52",434,13.70%,59,5.60%
+Navy,Women,"Various AP Ships 96672: USNS Mendonca TAKR 303, USNS Mercy T-AH-19, USNS Millinocket T-EPF 3, USNS Montford Point T-ESD 1, USS John S Mccain DDG 56, USS Maine SSBN 741, USS Makin Island LHD 8, USS Mccampbell DDG 85, USS Michael Murphy DDG 112, USS Milius DDG 69, USS Mississippi SSN 782, USS Mobile Bay CG 53, USS Momsen DDG 92, USS Mustin DDG 89",439,9.30%,41,2.40%
+Navy,Women,"Various AP Ships 96678: SBX-1, USNS Alan Shepard TAKE 3, USNS Gysgt Fred W Stockham TAK 3017, USNS Mary Sears TAGS 65, USNS Sacagawea TAKE 2, USNS Salvor TARS 52, USNS Sioux TATF 171, USNS Sumner TAGS 61, USNS Wally Schirra TAKE 8, USS Sampson DDG 102, USS San Diego LPD 22, USS Santa Fe SSN 763, USS Scout MCM 8, USS Seawolf SSN 21, USS Shiloh CG 67, USS Shoup DDG 86, USS Somerset LPD 25, USS Spruance DDG 111, USS Sterett DDG 104, USS Stethem DDG 63, USS Stockdale DDG 106",400,11.10%,44,3.90%
+Navy,Women,Various East Coast Squadrons,557,8.80%,49,0.80%
+Navy,Women,Various West Coast Squadrons,409,8.20%,33,0.90%
+Navy,Women,Washington NAVDIST HQ,230,2.30%,5,-0.50%
+Navy,Women,Whidbey Island NAS,831,6.90%,57,-0.40%
+Navy,Women,Whiting Field NAS,121,4.60%,6,-0.70%
+Navy,Women,Yokosuka (JA),482,4.40%,21,-1.10%
+Navy,Men,29 Palms MC Cmbt Ctr,508,1.30%,7,0.00%
+Navy,Men,Annapolis NSA (Incl. USNA),722,0.50%,4,-0.20%
+Navy,Men,Bahrain,693,1.30%,9,0.10%
+Navy,Men,Bahrain,1600,1.20%,20,-0.20%
+Navy,Men,Camp Lejeune MCB,3058,1.30%,40,-0.10%
+Navy,Men,Camp Pendleton,3493,1.20%,41,-0.30%
+Navy,Men,Coronado Nav Amphib Base,4481,1.00%,44,-0.50%
+Navy,Men,Corpus Christi NAS,785,0.70%,6,-0.20%
+Navy,Men,Corry Station NTTC,1511,1.20%,19,-0.90%
+Navy,Men,Dam Neck Trng Ctr Atlantic,2529,0.70%,17,-0.20%
+Navy,Men,Fallon NAS,646,0.90%,6,-0.10%
+Navy,Men,FLC Yokosuka Site Atsugi (JA),622,1.10%,7,0.00%
+Navy,Men,FLCY Det Sasebo (JA),652,1.70%,11,0.40%
+Navy,Men,Fleet ASW Trng Ctr Pacific,1042,0.70%,7,-0.10%
+Navy,Men,Fort George G. Meade,1783,0.80%,15,-0.40%
+Navy,Men,Fort Sam Houston,2180,1.00%,22,-0.40%
+Navy,Men,Fort Story,2200,0.70%,15,-0.30%
+Navy,Men,Guam,1360,1.30%,18,0.10%
+Navy,Men,Gulfport NCBC,965,0.90%,9,-0.30%
+Navy,Men,Jacksonville NAS,4446,0.90%,40,-0.30%
+Navy,Men,Japan,3208,3.10%,100,1.20%
+Navy,Men,JB Anacostia-Bolling,594,0.50%,3,-0.10%
+Navy,Men,Key West NAS,532,0.70%,4,-0.20%
+Navy,Men,Kings Bay NAVSUBBASE,1616,1.10%,18,-0.30%
+Navy,Men,Lemoore NAS,2184,0.90%,21,-0.20%
+Navy,Men,Little Creek Nav Amphib Base,3261,0.80%,27,-0.30%
+Navy,Men,Mayport NAVSTA,1974,0.90%,18,-0.10%
+Navy,Men,MCBH Kaneohe Bay,987,1.10%,11,-0.10%
+Navy,Men,Meridian NAS,557,1.20%,7,-0.30%
+Navy,Men,Naples (IT),1528,0.80%,13,-0.10%
+Navy,Men,Naval Hospital Bremerton,476,0.80%,4,-0.20%
+Navy,Men,Naval Hospital Pensacola,618,0.90%,6,-0.10%
+Navy,Men,Naval Med Ctr Portsmouth,2302,1.00%,22,-0.30%
+Navy,Men,Naval Med Ctr San Diego,2413,0.90%,21,-0.20%
+Navy,Men,Naval Postgraduate Sch,714,0.40%,3,-0.10%
+Navy,Men,Naval Station Great Lakes,8974,1.20%,109,-0.90%
+Navy,Men,Naval Station Newport,1793,0.70%,13,-0.30%
+Navy,Men,Naval Station Rota (SP),709,0.90%,6,-0.20%
+Navy,Men,NAVSURFWEAPCEN Dahlgren,647,0.90%,6,-0.10%
+Navy,Men,Navy Mobile Units-AA,3597,1.00%,36,-0.20%
+Navy,Men,Navy Mobile Units-AE,909,1.00%,9,0.00%
+Navy,Men,NB Kitsap-Bangor,2133,1.20%,26,-0.20%
+Navy,Men,NB Kitsap-Bremerton,389,0.70%,3,-0.10%
+Navy,Men,NB Pearl Harbor,3029,1.10%,33,0.00%
+Navy,Men,New London NAVSUBBASE,3742,2.00%,73,-0.40%
+Navy,Men,NNMC Bethesda,1515,0.70%,11,-0.30%
+Navy,Men,Norfolk Nav Shipyd,1132,1.60%,18,0.10%
+Navy,Men,Norfolk NB,9652,0.90%,86,-0.20%
+Navy,Men,North Island NAS,5269,0.90%,46,-0.20%
+Navy,Men,NSA Charleston,5665,2.40%,138,-0.40%
+Navy,Men,NSA Mid-South,394,0.40%,2,-0.10%
+Navy,Men,Oceana NAS,2370,0.90%,22,-0.30%
+Navy,Men,Okinawa (JA),1025,1.00%,10,-0.30%
+Navy,Men,Pascagoula NAVSTA,517,0.90%,5,-0.30%
+Navy,Men,Patuxent River NAS,1859,0.70%,12,-0.20%
+Navy,Men,Pensacola NAS,4575,0.90%,40,-0.70%
+Navy,Men,Port Hueneme NCBC,942,0.80%,7,-0.20%
+Navy,Men,Postal Area 2,1463,0.60%,8,-0.10%
+Navy,Men,Postal Area 3,1221,0.50%,6,-0.20%
+Navy,Men,Postal Area 9,1084,0.80%,8,-0.30%
+Navy,Men,Point Mugu NAS,569,0.90%,5,-0.10%
+Navy,Men,San Diego NAVSTA,5042,0.90%,45,-0.20%
+Navy,Men,San Diego NAVSUBBASE,1035,0.90%,9,-0.10%
+Navy,Men,Scotia Naval ADM Ballston,1672,2.50%,42,-0.80%
+Navy,Men,Sigonella (IT),1120,1.20%,14,-0.20%
+Navy,Men,Tinker AFB,1114,1.20%,13,-0.10%
+Navy,Men,United States,18282,1.40%,263,0.00%
+Navy,Men,USS Abraham Lincoln,1847,2.20%,40,0.10%
+Navy,Men,USS Bonhomme Richard,981,2.80%,27,0.70%
+Navy,Men,USS Carl Vinson,2307,2.00%,45,-0.40%
+Navy,Men,USS Dwight D. Eisenhower,2296,1.80%,41,-0.20%
+Navy,Men,USS George H. W. Bush,2345,3.20%,75,0.30%
+Navy,Men,USS George Washington,2968,3.40%,102,0.40%
+Navy,Men,USS Harry S. Truman,2382,2.60%,62,0.20%
+Navy,Men,USS John C. Stennis,2271,2.60%,60,0.30%
+Navy,Men,USS Nimitz,2237,2.30%,52,-0.10%
+Navy,Men,USS Ronald Reagan,2043,1.80%,37,-0.10%
+Navy,Men,USS Theodore Roosevelt,2018,3.00%,60,0.90%
+Navy,Men,"Various AA Ships 34091: USS Farragut DDG 99, USS Florida SSGN 728, USS Fort McHenry LSD 43, USS Georgia SSGN 729, USS Gladiator MCM 11, USS Hue City CG 66, USS Lassen DDG 82",1533,2.60%,40,0.90%
+Navy,Men,"Various AA Ships 34093: USS Shamal PC 13, USS Tennessee SSBN 734, USS The Sullivans DDG 68, USS Tornado PC 14, USS West Virginia SSBN 736, USS Wyoming SSBN 742, USS Zephyr PC 8",1424,2.20%,32,0.40%
+Navy,Men,Various AE Aviation Squadrons,969,1.70%,16,0.10%
+Navy,Men,"Various AE Ships 09578: USNS 1st Lt Harry L Martin TAK 3015, USNS William McLean TAKE 12, USS Mahan DDG 72, USS Maryland SSBN 738, USS Mason DDG 87, USS McFaul DDG 74, USS Mesa Verde LPD 19, USS Minnesota SSN 783, USS Missouri SSN 780, USS Mitscher DDG 57, USS Monsoon PC4, USS Monterey CG 61, USS Montpelier SSN 765",2089,2.80%,59,0.80%
+Navy,Men,"Various AE Ships 09579: USS New Hampshire SSN 778, USS New Mexico SSN 779, USS Newport News SSN 750, USS Nitze DDG 94, USS Norfolk SSN 714, USS Normandy CG 60, USS North Dakota SSN 784",1252,3.20%,40,1.10%
+Navy,Men,Various AP Ships and JMPA,1795,2.60%,47,0.60%
+Navy,Men,"Various AP Ships 96660: USNS Able TAGOS 20, USS Albuquerque SSN 706, USS America LHA 6, USS Anchorage LPD 23, USS Antietam CG 54, USS Ardent MCM 12, USS Asheville SSN 758, USS Ashland LSD 48",1562,2.50%,39,0.60%
+Navy,Men,"Various AP Ships 96661: USNS 2nd Lt John P Bobo TAK 3008, USNS Bowditch TAGS 62, USNS Brittin TAKR 305, USNS Carl Brashear TAKE 7, USNS Richard E. Byrd TAKE 4, USNS Sgt William R Button TAKE 3012, USS Benfold DDG 65, USS Boxer LHD 4, USS Bremerton SSN 698, USS Buffalo SSN 715, USS Bunker Hill CG 52",1507,2.90%,44,1.10%
+Navy,Men,"Various AP Ships 96662: Mv Ssg Edward A Carter Jr TAK 4544, USNS Catawba TATF 168, USNS Cesar Chavez TAKE 14, USNS Charlton TAKR 314, USNS Washington Chambers TAKE 11, USS Cape St George CG 71, USS Chafee DDG 90, USS Champion MCM 4, USS Chancellorsville CG 62, USS Charlotte SSN 766, USS Cheyenne SSN 773, USS Chicago SSN 721, USS Chief MCM 14, USS Chosin CG 65, USS Chung-Hoon DDG 93, USS City Of Corpus Christi SSN 705, USS Columbia SSN 771, USS Columbus SSN 762, USS Comstock LSD 45, USS Connecticut SSN 22, USS Coronado LCS 4, USS Cowpens CG 63",2200,3.30%,72,1.30%
+Navy,Men,"Various AP Ships 96667: USNS Bruce C Heezen TAGS 64, USS Emory S Land As 39, USS Halsey DDG 97, USS Hawaii SSN 776, USS Higgins DDG 76, USS Hopper DDG 70, USS Houston SSN 713, USS Howard DDG 83, USS Paul Hamilton DDG 60, USS Pearl Harbor LSD 52",1467,2.70%,40,1.10%
+Navy,Men,"Various AP Ships 96671: USNS 1ST LT BALDOMERO LOPEZ TAK 3010, USNS 1ST LT JACK LUMMUS TAK 3011, USNS HOWARD O LORENZEN TAGM 25, USNS LEWIS AND CLARK TAKE1, USNS LOYAL TAGOS 22, USS LAKE CHAMPLAIN CG 57, USS LAKE ERIE CG 70, USS LOUISANA SSBN 743, USS LOUISVILLE SSN 724, USS WILLIAM P LAWRENCE DDG 110",1719,3.80%,65,1.60%
+Navy,Men,"Various AP Ships 96672: USNS Mendonca TAKR 303, USNS Mercy T-AH-19, USNS Millinocket T-EPF 3, USNS Montford Point T-ESD 1, USS John S Mccain DDG 56, USS Maine SSBN 741, USS Makin Island LHD 8, USS Mccampbell DDG 85, USS Michael Murphy DDG 112, USS Milius DDG 69, USS Mississippi SSN 782, USS Mobile Bay CG 53, USS Momsen DDG 92, USS Mustin DDG 89",2412,2.00%,48,0.30%
+Navy,Men,"Various AP Ships 96678: SBX-1, USNS Alan Shepard TAKE 3, USNS Gysgt Fred W Stockham TAK 3017, USNS Mary Sears TAGS 65, USNS Sacagawea TAKE 2, USNS Salvor TARS 52, USNS Sioux TATF 171, USNS Sumner TAGS 61, USNS Wally Schirra TAKE 8, USS Sampson DDG 102, USS San Diego LPD 22, USS Santa Fe SSN 763, USS Scout MCM 8, USS Seawolf SSN 21, USS Shiloh CG 67, USS Shoup DDG 86, USS Somerset LPD 25, USS Spruance DDG 111, USS Sterett DDG 104, USS Stethem DDG 63, USS Stockdale DDG 106",2129,2.80%,60,0.90%
+Navy,Men,Various East Coast Squadrons,3099,1.50%,45,-0.10%
+Navy,Men,Various West Coast Squadrons,3233,1.70%,55,0.00%
+Navy,Men,Washington NAVDIST HQ,1105,0.70%,8,-0.20%
+Navy,Men,Whidbey Island NAS,4014,1.10%,44,-0.20%
+Navy,Men,Whiting Field NAS,967,0.60%,6,-0.20%
+Navy,Men,Yokosuka (JA),1956,0.80%,16,-0.20%
+Air Force,Women,Altus AFB,235,4.70%,11,1.30%
+Air Force,Women,Andrews AFB,1093,2.30%,25,-0.30%
+Air Force,Women,Aviano AB (IT),610,3.50%,22,0.20%
+Air Force,Women,Barksdale AFB,927,2.80%,26,-0.30%
+Air Force,Women,Beale AFB,857,3.20%,27,-0.40%
+Air Force,Women,Buckley AFB,305,2.90%,9,-0.20%
+Air Force,Women,Cannon AFB,733,4.00%,29,0.30%
+Air Force,Women,Charleston AFB,619,3.50%,22,0.10%
+Air Force,Women,Columbus AFB,198,4.60%,9,0.90%
+Air Force,Women,Creech AFB,360,3.80%,14,0.20%
+Air Force,Women,Davis-Monthan AFB,1026,2.90%,30,-0.30%
+Air Force,Women,Dover AFB,511,3.50%,18,0.00%
+Air Force,Women,Dyess AFB,633,3.30%,21,-0.20%
+Air Force,Women,Edwards AFB,335,3.10%,10,-0.30%
+Air Force,Women,Eglin AFB,1207,2.30%,28,-0.50%
+Air Force,Women,Eielson AFB,289,3.70%,11,0.50%
+Air Force,Women,Ellsworth AFB,496,3.40%,17,-0.30%
+Air Force,Women,Elmendorf AFB,1162,2.80%,33,0.00%
+Air Force,Women,Fairchild AFB,432,3.50%,15,0.30%
+Air Force,Women,Fort Belvoir,106,1.50%,2,-0.20%
+Air Force,Women,Fort George G. Meade,765,2.90%,22,0.00%
+Air Force,Women,Fort Gordon,272,4.10%,11,0.10%
+Air Force,Women,Francis E Warren AFB,480,3.90%,19,-0.10%
+Air Force,Women,Geilenkirchen NATO AB (GR),103,2.30%,2,0.20%
+Air Force,Women,Goodfellow AFB,422,4.50%,19,0.60%
+Air Force,Women,Grand Forks AFB,285,3.50%,10,0.40%
+Air Force,Women,Guam,370,3.50%,13,0.40%
+Air Force,Women,Hanscom AFB,201,3.30%,7,0.30%
+Air Force,Women,Hickam AFB,1004,3.20%,32,0.30%
+Air Force,Women,Hill AFB,545,3.10%,17,-0.20%
+Air Force,Women,Holloman AFB,638,3.10%,20,-0.20%
+Air Force,Women,Hurlburt Field,1135,3.70%,41,0.60%
+Air Force,Women,"Incirlik AB, Adana (TU)",300,3.60%,11,0.60%
+Air Force,Women,JB Anacostia-Bolling,274,2.40%,7,0.10%
+Air Force,Women,Keesler AFB,1098,2.90%,32,0.00%
+Air Force,Women,Kirtland AFB,484,3.40%,17,0.10%
+Air Force,Women,Kunsan AB (KS),350,4.00%,14,0.60%
+Air Force,Women,Lackland AFB,4017,2.90%,118,0.20%
+Air Force,Women,"Lajes Field, Terceira Azores",138,2.80%,4,0.20%
+Air Force,Women,Landstuhl Med Ctr (GR),155,2.30%,4,0.20%
+Air Force,Women,Langley AFB,1952,2.70%,52,-0.20%
+Air Force,Women,Laughlin AFB,204,5.20%,10,1.20%
+Air Force,Women,Little Rock AFB,707,2.90%,21,-0.50%
+Air Force,Women,Los Angeles AFB,202,2.50%,5,-0.20%
+Air Force,Women,Luke AFB,575,3.60%,20,0.40%
+Air Force,Women,MacDill AFB,730,2.80%,21,0.10%
+Air Force,Women,Malmstrom AFB,493,4.50%,22,0.40%
+Air Force,Women,Marine Barracks Wash. D.C.,118,1.70%,2,0.00%
+Air Force,Women,Maxwell AFB (Incl. Gunter),556,2.50%,14,0.30%
+Air Force,Women,McChord AFB,461,3.40%,16,0.00%
+Air Force,Women,McConnell AFB,391,3.50%,14,0.20%
+Air Force,Women,McGuire AFB,704,3.30%,23,0.00%
+Air Force,Women,Minot AFB,781,4.00%,31,0.10%
+Air Force,Women,Misawa AB (JA),469,3.40%,16,0.30%
+Air Force,Women,Missing,177,3.30%,6,0.70%
+Air Force,Women,Moody AFB,749,2.80%,21,-0.50%
+Air Force,Women,Mountain Home AFB,558,3.10%,17,-0.10%
+Air Force,Women,Nellis AFB,1459,2.30%,34,-0.60%
+Air Force,Women,Offutt AFB,915,2.70%,25,-0.50%
+Air Force,Women,Okinawa (JA),1018,2.90%,30,0.10%
+Air Force,Women,Osan AB (KS),821,3.70%,30,0.30%
+Air Force,Women,Patrick AFB,260,3.20%,8,0.50%
+Air Force,Women,Pensacola NAS,101,3.20%,3,-0.40%
+Air Force,Women,Peterson AFB,740,2.30%,17,-0.40%
+Air Force,Women,Pope AFB,292,2.90%,8,0.30%
+Air Force,Women,Postal Area 2,531,2.30%,12,0.20%
+Air Force,Women,Postal Area 3,172,2.10%,4,0.00%
+Air Force,Women,Postal Area 8,101,2.00%,2,-0.10%
+Air Force,Women,Presidio of Monterey,489,4.00%,20,-0.20%
+Air Force,Women,RAF Lakenheath (UK),850,3.30%,28,0.20%
+Air Force,Women,RAF Mildenhall (UK),474,3.40%,16,0.20%
+Air Force,Women,Ramstein (GR),1600,3.20%,51,0.30%
+Air Force,Women,Randolph AFB,644,2.10%,13,-0.10%
+Air Force,Women,Robins AFB,721,3.00%,22,-0.10%
+Air Force,Women,Schriever AFB,278,2.60%,7,-0.50%
+Air Force,Women,Scott AFB,997,2.30%,23,-0.40%
+Air Force,Women,Seymour Johnson AFB,698,2.90%,20,-0.40%
+Air Force,Women,Shaw AFB,855,3.00%,26,-0.10%
+Air Force,Women,Sheppard AFB,515,3.40%,17,0.30%
+Air Force,Women,Spangdahlem AB (GR),548,3.50%,19,0.40%
+Air Force,Women,Tinker AFB,754,3.20%,24,-0.20%
+Air Force,Women,Travis AFB,1439,2.80%,40,-0.10%
+Air Force,Women,Tyndall AFB,579,3.00%,17,-0.20%
+Air Force,Women,United States,653,1.30%,9,-0.20%
+Air Force,Women,USAF Academy,500,2.90%,14,-0.20%
+Air Force,Women,Vance AFB,164,5.20%,8,1.40%
+Air Force,Women,Vandenberg AFB,462,3.40%,16,0.10%
+Air Force,Women,Whiteman AFB,553,3.50%,20,0.00%
+Air Force,Women,Wright-Patterson AFB,1325,2.30%,30,-0.50%
+Air Force,Women,Yokota AB (JA),438,2.80%,12,0.20%
+Air Force,Men,Altus AFB,1085,0.70%,7,0.20%
+Air Force,Men,Andrews AFB,3176,0.30%,10,-0.10%
+Air Force,Men,Aviano AB (IT),2752,0.50%,13,0.10%
+Air Force,Men,Barksdale AFB,4635,0.30%,16,-0.10%
+Air Force,Men,Beale AFB,3893,0.30%,14,0.00%
+Air Force,Men,Buckley AFB,1253,0.40%,5,0.00%
+Air Force,Men,Cannon AFB,3994,0.40%,16,0.00%
+Air Force,Men,Charleston AFB,3160,0.40%,13,0.00%
+Air Force,Men,Columbus AFB,1132,0.50%,6,0.20%
+Air Force,Men,Creech AFB,2402,0.40%,11,0.00%
+Air Force,Men,Davis-Monthan AFB,5086,0.40%,18,0.00%
+Air Force,Men,Dover AFB,2944,0.40%,12,0.00%
+Air Force,Men,Dyess AFB,3753,0.40%,17,0.00%
+Air Force,Men,Edwards AFB,1577,0.30%,5,0.00%
+Air Force,Men,Eglin AFB,4444,0.30%,15,0.00%
+Air Force,Men,Eielson AFB,1397,0.40%,6,0.10%
+Air Force,Men,Ellsworth AFB,2639,0.40%,11,0.00%
+Air Force,Men,Elmendorf AFB,4601,0.40%,16,0.00%
+Air Force,Men,Fairchild AFB,2464,0.40%,11,0.00%
+Air Force,Men,Fort George G. Meade,2066,0.30%,7,0.00%
+Air Force,Men,Fort Gordon,606,0.40%,3,0.00%
+Air Force,Men,Fort Lee,153,0.30%,0,0.00%
+Air Force,Men,Fort Leonard Wood,183,0.20%,0,-0.10%
+Air Force,Men,Francis E Warren AFB,2612,0.50%,14,0.00%
+Air Force,Men,Geilenkirchen NATO AB (GR),410,0.30%,1,0.00%
+Air Force,Men,Goodfellow AFB,1403,0.40%,6,0.10%
+Air Force,Men,Grand Forks AFB,1299,0.50%,6,0.00%
+Air Force,Men,Guam,1599,0.40%,6,0.00%
+Air Force,Men,Hanscom AFB,662,0.30%,2,0.00%
+Air Force,Men,Hickam AFB,3875,0.30%,13,0.00%
+Air Force,Men,Hill AFB,2986,0.40%,11,0.00%
+Air Force,Men,Holloman AFB,2770,0.40%,11,0.00%
+Air Force,Men,Hurlburt Field,6881,0.40%,26,0.00%
+Air Force,Men,"Incirlik AB, Adana (TU)",1023,0.50%,5,0.10%
+Air Force,Men,JB Anacostia-Bolling,765,0.60%,4,0.10%
+Air Force,Men,Kaiserslautern (GR),351,0.40%,1,0.00%
+Air Force,Men,Keesler AFB,3232,0.40%,13,0.00%
+Air Force,Men,Kirtland AFB,2635,0.40%,11,0.00%
+Air Force,Men,Kunsan AB (KS),2050,0.40%,9,0.10%
+Air Force,Men,Lackland AFB,9773,0.40%,41,0.00%
+Air Force,Men,"Lajes Field, Terceira Azores",536,0.30%,2,0.00%
+Air Force,Men,Langley AFB,5592,0.30%,19,0.00%
+Air Force,Men,Laughlin AFB,1165,0.60%,7,0.20%
+Air Force,Men,Little Rock AFB,4302,0.40%,16,-0.10%
+Air Force,Men,Los Angeles AFB,830,0.30%,2,0.00%
+Air Force,Men,Luke AFB,2951,0.60%,16,0.20%
+Air Force,Men,MacDill AFB,2600,0.40%,9,0.00%
+Air Force,Men,Malmstrom AFB,2923,0.50%,15,0.00%
+Air Force,Men,Marine Barracks Wash. D.C.,465,0.20%,1,0.00%
+Air Force,Men,Maxwell AFB (Incl. Gunter),1879,0.30%,6,0.00%
+Air Force,Men,McChord AFB,2686,0.40%,10,0.00%
+Air Force,Men,McConnell AFB,2605,0.40%,11,0.00%
+Air Force,Men,McGuire AFB,3726,0.40%,15,0.00%
+Air Force,Men,Minot AFB,4468,0.50%,23,0.00%
+Air Force,Men,Misawa AB (JA),2264,0.40%,10,0.00%
+Air Force,Men,Missing,1010,0.30%,3,0.10%
+Air Force,Men,Moody AFB,3826,0.40%,14,0.00%
+Air Force,Men,Mountain Home AFB,2645,0.40%,11,0.00%
+Air Force,Men,Nellis AFB,5598,0.30%,18,-0.10%
+Air Force,Men,Offutt AFB,4197,0.30%,13,-0.10%
+Air Force,Men,Okinawa (JA),5394,0.40%,21,0.00%
+Air Force,Men,Osan AB (KS),4243,0.40%,17,0.00%
+Air Force,Men,Patrick AFB,1062,0.30%,4,0.00%
+Air Force,Men,Pensacola NAS,661,0.30%,2,0.00%
+Air Force,Men,Peterson AFB,2634,0.30%,7,-0.10%
+Air Force,Men,Pope AFB,1488,0.40%,6,0.00%
+Air Force,Men,Postal Area 2,1519,0.30%,5,0.00%
+Air Force,Men,Postal Area 3,623,0.30%,2,0.00%
+Air Force,Men,Postal Area 7,338,0.30%,1,0.00%
+Air Force,Men,Postal Area 9,439,0.30%,1,0.00%
+Air Force,Men,Presidio of Monterey,1233,0.40%,5,0.00%
+Air Force,Men,RAF Croughton (UK),338,0.40%,1,0.00%
+Air Force,Men,RAF Lakenheath (UK),3731,0.40%,16,0.00%
+Air Force,Men,RAF Mildenhall (UK),2791,0.40%,12,0.00%
+Air Force,Men,Ramstein (GR),6795,0.40%,26,0.00%
+Air Force,Men,Randolph AFB,1659,0.30%,5,0.00%
+Air Force,Men,Robins AFB,2787,0.40%,11,0.00%
+Air Force,Men,Schriever AFB,1163,0.30%,4,-0.10%
+Air Force,Men,Scott AFB,3531,0.30%,10,-0.10%
+Air Force,Men,Seymour Johnson AFB,3848,0.40%,15,0.00%
+Air Force,Men,Shaw AFB,3488,0.40%,12,0.00%
+Air Force,Men,Sheppard AFB,3369,0.40%,13,0.00%
+Air Force,Men,Spangdahlem AB (GR),2652,0.40%,11,0.00%
+Air Force,Men,Tinker AFB,3853,0.40%,15,-0.10%
+Air Force,Men,Travis AFB,4952,0.40%,19,0.00%
+Air Force,Men,Tyndall AFB,2664,0.30%,9,0.00%
+Air Force,Men,United States,2261,0.20%,4,-0.10%
+Air Force,Men,USAF Academy,1350,0.50%,7,0.00%
+Air Force,Men,Vance AFB,1055,0.50%,5,0.20%
+Air Force,Men,Vandenberg AFB,2054,0.40%,8,0.00%
+Air Force,Men,Whiteman AFB,3329,0.40%,14,0.00%
+Air Force,Men,Wright-Patterson AFB,4207,0.30%,11,-0.10%
+Air Force,Men,Yokota AB (JA),2396,0.40%,9,0.00%
+USMC,Women,USMC Mobile 1st Marine,300,8.60%,26,-0.40%
+USMC,Women,29 Palms MC Cmbt Ctr,492,10.10%,50,0.80%
+USMC,Women,Afghanistan,308,8.40%,26,0.40%
+USMC,Women,Beaufort MCAS,237,9.90%,24,2.70%
+USMC,Women,Camp Lejeune MCB,2072,7.90%,163,0.10%
+USMC,Women,Camp Pendleton,2246,7.10%,159,-0.80%
+USMC,Women,Cherry Point MCAS,689,8.60%,59,0.30%
+USMC,Women,MCAS Miramar,805,7.60%,61,-0.30%
+USMC,Women,MCBH Kaneohe Bay,287,7.40%,21,-0.10%
+USMC,Women,MCCDC Quantico VA,623,5.40%,34,-0.50%
+USMC,Women,New River MCAS,454,9.40%,43,1.10%
+USMC,Women,Okinawa (JA),511,8.00%,41,-0.60%
+USMC,Women,Parris Island MCRD,778,7.70%,60,-0.10%
+USMC,Women,Pensacola NAS,178,9.20%,16,-0.90%
+USMC,Women,United States,536,7.60%,41,0.10%
+USMC,Women,USMC Mobile 3rd MEF,158,6.30%,10,-1.90%
+USMC,Women,USMC Mobile 3rd MLG,321,9.40%,30,-0.20%
+USMC,Women,Yuma MCAS,309,11.50%,36,2.70%
+USMC,Men,USMC Mobile 1st Marine,3011,0.70%,21,-0.10%
+USMC,Men,29 Palms MC Cmbt Ctr,9136,1.30%,122,0.10%
+USMC,Men,Afghanistan,5455,1.20%,66,0.20%
+USMC,Men,Bahrain,624,1.20%,7,0.10%
+USMC,Men,Beaufort MCAS,2345,1.10%,26,0.20%
+USMC,Men,Camp H. M. Smith,378,0.30%,1,0.00%
+USMC,Men,Camp Lejeune MCB,29307,1.20%,351,0.00%
+USMC,Men,Camp Pendleton,30413,1.00%,306,-0.10%
+USMC,Men,Cherry Point MCAS,6531,0.90%,56,0.00%
+USMC,Men,Fort Leonard Wood,1271,0.80%,10,-0.20%
+USMC,Men,Japan,4489,1.60%,71,0.30%
+USMC,Men,Kuwait,412,1.10%,5,0.10%
+USMC,Men,MCAS Iwakuni (JA),531,0.80%,4,0.10%
+USMC,Men,MCAS Miramar,6375,0.80%,50,0.00%
+USMC,Men,MCBH Kaneohe Bay,4526,1.00%,47,0.00%
+USMC,Men,MCCDC Quantico VA,5478,0.50%,28,0.00%
+USMC,Men,Missing,1245,1.30%,16,0.20%
+USMC,Men,New River MCAS,5433,0.90%,47,0.00%
+USMC,Men,Norfolk NB,982,1.10%,10,0.00%
+USMC,Men,Okinawa (JA),4576,0.80%,35,-0.10%
+USMC,Men,Parris Island MCRD,3268,1.00%,34,0.00%
+USMC,Men,Pensacola NAS,2881,0.80%,22,-0.20%
+USMC,Men,Pentagon,791,0.20%,2,0.00%
+USMC,Men,Postal Area 2,651,0.60%,4,0.00%
+USMC,Men,Postal Area 7,1072,0.50%,6,0.00%
+USMC,Men,Postal Area 9,813,0.50%,4,0.00%
+USMC,Men,Presidio of Monterey,530,0.50%,2,-0.10%
+USMC,Men,San Diego MC Recruit Depot,3329,1.20%,39,0.00%
+USMC,Men,South Korea,214,1.30%,3,0.20%
+USMC,Men,Spain,534,1.10%,6,0.10%
+USMC,Men,United States,7388,0.90%,64,-0.10%
+USMC,Men,USMC Mobile 3rd Mar Div,1408,1.10%,16,0.10%
+USMC,Men,USMC Mobile 3rd MEF,1630,0.60%,10,-0.10%
+USMC,Men,USMC Mobile 3rd MLG,2605,0.90%,23,0.00%
+USMC,Men,Yuma MCAS,3169,0.90%,29,0.10%
+Army,Women,21st Theater Support,1019,5.60%,57,-0.90%
+Army,Women,Army Sustainment Command,107,2.30%,2,-0.70%
+Army,Women,Contracting Command,108,1.90%,2,-0.40%
+Army,Women,DoD Agencies (DoD),663,2.30%,16,-0.70%
+Army,Women,FOAS Resourced by,557,3.60%,20,-0.70%
+Army,Women,FORSCOM Ground Forces,236,1.80%,4,-0.70%
+Army,Women,Joint Activities (Less NATO),563,2.00%,11,-0.80%
+Army,Women,Military Entrance Processing,120,2.40%,3,-0.70%
+Army,Women,Missing MCC (ZZZ),1311,5.80%,77,-1.80%
+Army,Women,"Office, Chief of Staff, U.S. Army",175,1.30%,2,-0.20%
+Army,Women,Second Army,968,3.80%,37,-1.40%
+Army,Women,Supreme HQ Allied Powers Eur,168,2.20%,4,-0.80%
+Army,Women,U.S. Army Medical Command,10280,3.60%,368,-0.50%
+Army,Women,U.S. Military Academy (USMA),169,4.70%,8,0.10%
+Army,Women,Unknown MCC AFL,729,4.40%,32,-2.20%
+Army,Women,U.S. Army Central (USARCENT),518,2.60%,14,-0.90%
+Army,Women,U.S. Army Criminal,273,3.90%,11,-1.10%
+Army,Women,U.S. Army IMCOM,412,3.10%,13,-1.40%
+Army,Women,U.S. Army Intelligence and Sec,2067,4.00%,83,-2.00%
+Army,Women,U.S. Army Materiel Command,214,2.00%,4,-0.80%
+Army,Women,U.S. Army Military District of,255,3.50%,9,-1.20%
+Army,Women,U.S. Army Pacific,6125,5.60%,342,-0.70%
+Army,Women,U.S. Army Recruiting Command,966,2.10%,21,-1.00%
+Army,Women,U.S. Army South,149,3.70%,5,-0.70%
+Army,Women,U.S. Army Special Operations,1133,5.20%,59,-0.70%
+Army,Women,TRADOC,8321,5.10%,424,-1.20%
+Army,Women,"U.S. Army, Europe and Seventh",1318,6.50%,85,-0.50%
+Army,Women,U.S. Forces Command,29498,7.70%,2262,1.20%
+Army,Men,21st Theater Support,4599,0.90%,43,-0.10%
+Army,Men,7th Army Training Command,1384,1.10%,15,0.00%
+Army,Men,Army Acquisition Exec Supp,508,0.20%,1,0.00%
+Army,Men,Army Sustainment Command,442,0.30%,1,0.00%
+Army,Men,Army War College,378,0.20%,1,0.00%
+Army,Men,Contracting Command,354,0.30%,1,0.00%
+Army,Men,Directed Military Overstreng,320,0.30%,1,0.00%
+Army,Men,DoD Agencies (DoD),3432,0.40%,13,-0.10%
+Army,Men,FOAS Resourced by,2148,0.50%,11,-0.10%
+Army,Men,FORSCOM Ground Forces,2649,0.30%,8,-0.10%
+Army,Men,Joint Activities (Less NATO),3391,0.30%,10,-0.10%
+Army,Men,Joint Special Operations Cmd,1107,0.30%,3,-0.10%
+Army,Men,Military Entrance Processing,500,0.40%,2,-0.10%
+Army,Men,Missing MCC (ZZZ),6099,1.00%,62,-0.20%
+Army,Men,"Office, Chief of Staff, US Army",868,0.20%,2,0.00%
+Army,Men,"Office, Secretary of the Army",211,0.20%,0,-0.10%
+Army,Men,Second Army,5013,0.70%,36,-0.20%
+Army,Men,SETAF/US Army Africa,315,0.30%,1,0.00%
+Army,Men,Supreme HQ Allied Powers Eur,791,0.40%,3,-0.10%
+Army,Men,U.S. Army Medical Command,21036,0.70%,152,-0.10%
+Army,Men,U.S. Military Academy (USMA),1032,0.70%,8,0.10%
+Army,Men,Unknown MCC AFL,4261,0.80%,34,-0.30%
+Army,Men,US Army Central (USARCENT),1866,0.50%,9,-0.10%
+Army,Men,US Army Central (USARCENT),770,0.30%,2,-0.10%
+Army,Men,US Army Central Command,539,0.60%,3,-0.10%
+Army,Men,US Army Criminal,1244,0.60%,7,0.00%
+Army,Men,US Army IMCOM,1897,0.60%,11,-0.20%
+Army,Men,US Army Intelligence and Sec,8520,0.70%,58,-0.20%
+Army,Men,US Army Materiel Command,607,0.40%,2,-0.10%
+Army,Men,US Army Military District of,2493,1.50%,36,0.00%
+Army,Men,US Army North (USARNORTH),445,0.40%,2,-0.10%
+Army,Men,US Army Pacific,41183,1.20%,493,0.00%
+Army,Men,US Army Recruiting Command,9690,0.40%,41,-0.10%
+Army,Men,US Army Security Assistance,251,0.30%,1,0.00%
+Army,Men,US Army South,893,0.60%,5,-0.10%
+Army,Men,US Army Special Operations,28274,1.00%,276,-0.10%
+Army,Men,US Army Test and Evaluation,450,0.30%,1,0.00%
+Army,Men,TRADOC,49665,1.10%,532,-0.10%
+Army,Men,"US Army, Europe and Seventh",12807,1.40%,175,0.10%
+Army,Men,US Forces Command,208741,1.40%,2970,0.10%
+Army,Men,USA Space and Missile Defense,1073,0.90%,9,0.00%
+Navy,Women,BUMED,8820,3.50%,313,-0.90%
+Navy,Women,BUPERS,1321,3.10%,40,-0.80%
+Navy,Women,CNI,3863,5.40%,208,-1.60%
+Navy,Women,CNO,720,3.00%,22,-0.70%
+Navy,Women,Central Operating Activity,245,2.50%,6,-0.60%
+Navy,Women,NAVAIR,153,3.50%,5,-1.30%
+Navy,Women,NAVFAC,144,3.30%,5,-1.20%
+Navy,Women,NAVSUP,324,4.00%,13,-1.20%
+Navy,Women,Navy Secretariat and Staff,188,2.70%,5,-0.50%
+Navy,Women,NETC,6141,7.10%,437,-2.20%
+Navy,Women,Office of Naval Intelligence,209,4.30%,9,-1.40%
+Navy,Women,SPECWAR,508,3.00%,15,-1.20%
+Navy,Women,Unknown MCC N28,197,2.50%,5,-0.90%
+Navy,Women,US Fleet Forces Command,14839,7.90%,1176,0.40%
+Navy,Women,US Pacific Fleet,15216,9.50%,1442,1.80%
+Navy,Women,USMC,797,3.80%,30,0.00%
+Navy,Women,USNR,176,4.70%,8,-0.20%
+Navy,Men,BUMED,20997,0.90%,185,-0.20%
+Navy,Men,BUPERS,6948,0.60%,42,-0.20%
+Navy,Men,CNI,11942,1.10%,128,-0.30%
+Navy,Men,CNO,1874,0.40%,8,-0.10%
+Navy,Men,Central Operating Activity,1822,0.50%,10,-0.10%
+Navy,Men,DIA,490,0.50%,3,-0.20%
+Navy,Men,DMA,411,0.70%,3,0.00%
+Navy,Men,NAVAIR,1392,0.40%,6,-0.20%
+Navy,Men,NAVFAC,1153,0.50%,6,-0.30%
+Navy,Men,NAVSEA,863,0.50%,4,-0.10%
+Navy,Men,NAVSUP,1271,0.60%,8,-0.20%
+Navy,Men,Navy Secretariat and Staff,667,0.50%,3,-0.20%
+Navy,Men,NETC,32816,1.40%,470,-0.70%
+Navy,Men,Office of Naval Intelligence,1131,0.70%,7,-0.20%
+Navy,Men,SPAWAR,491,0.40%,2,-0.10%
+Navy,Men,SPECWAR,8428,0.80%,63,-0.40%
+Navy,Men,Strategic Systems Program,1247,1.00%,12,-0.90%
+Navy,Men,Unknown MCC N28,1308,0.40%,5,-0.20%
+Navy,Men,US Fleet Forces Command,69550,1.80%,1241,0.20%
+Navy,Men,US Pacific Fleet,83762,2.00%,1687,0.30%
+Navy,Men,USMC,6468,1.30%,82,-0.10%
+Navy,Men,USNR,907,0.80%,7,-0.30%
+Air Force,Women,AF District of Washington,1049,2.40%,25,-0.30%
+Air Force,Women,AF Elements,471,2.20%,10,0.20%
+Air Force,Women,AF Elements���NATO,139,1.90%,3,0.00%
+Air Force,Women,AF ISR Agency,3130,3.50%,110,0.10%
+Air Force,Women,AF Legal OP Agency,212,1.90%,4,0.00%
+Air Force,Women,AF Materiel Cmd,4344,2.60%,112,-0.30%
+Air Force,Women,AF Off Spec Investigations,347,2.60%,9,-0.10%
+Air Force,Women,AF Personnel Ctr,327,1.50%,5,-0.30%
+Air Force,Women,AF Spec Opns Cmd,2043,3.60%,74,0.40%
+Air Force,Women,AFELM DIA,175,1.90%,3,0.00%
+Air Force,Women,AFELM OSD,139,2.30%,3,0.00%
+Air Force,Women,AFELM US Central Cmd,106,1.80%,2,0.00%
+Air Force,Women,AFELM US Pacific Command,141,1.70%,2,-0.20%
+Air Force,Women,AFELM USSTRATCOM,167,1.60%,3,-0.40%
+Air Force,Women,Air Combat Cmd,11776,2.90%,343,-0.30%
+Air Force,Women,Air Education and Training,9696,3.20%,315,0.30%
+Air Force,Women,Air Mobility Cmd,7501,3.10%,233,0.00%
+Air Force,Women,Global Strike Command,3077,3.60%,112,0.00%
+Air Force,Women,HQ AF Weather Agency,225,3.10%,7,-0.60%
+Air Force,Women,HQ Air Force Space Command,2402,2.70%,66,-0.20%
+Air Force,Women,HQ USAF and Support,457,1.30%,6,-0.20%
+Air Force,Women,Pacific Air Forces,5029,3.20%,161,0.20%
+Air Force,Women,US Air Force Academy,486,2.80%,14,-0.20%
+Air Force,Women,US Air Forces in Europe,4551,3.30%,150,0.30%
+Air Force,Men,AF District of Washington,2495,0.40%,11,0.00%
+Air Force,Men,AF Elements,1693,0.20%,4,0.00%
+Air Force,Men,AF Elements���NATO,769,0.30%,2,0.00%
+Air Force,Men,AF ISR Agency,10556,0.40%,39,0.00%
+Air Force,Men,AF Legal OP Agency,320,0.30%,1,-0.10%
+Air Force,Men,AF Materiel Cmd,13567,0.30%,44,0.00%
+Air Force,Men,AF Off Spec Investigations,1214,0.30%,3,0.00%
+Air Force,Men,AF OP Test and Eval Ctr,275,0.20%,1,0.00%
+Air Force,Men,AF Personnel Ctr,534,0.20%,1,-0.10%
+Air Force,Men,AF Spec Opns Cmd,12628,0.40%,47,0.00%
+Air Force,Men,AF TECH APPL Center,430,0.30%,1,0.00%
+Air Force,Men,AFELM DIA,723,0.20%,2,0.00%
+Air Force,Men,AFELM DISA,379,0.30%,1,0.00%
+Air Force,Men,AFELM JCS,329,0.20%,1,-0.10%
+Air Force,Men,AFELM OSD,466,0.30%,1,0.00%
+Air Force,Men,AFELM US Pacific Command,439,0.20%,1,0.00%
+Air Force,Men,AFELM USEUCOM,320,0.20%,1,-0.10%
+Air Force,Men,AFELM USSTRATCOM,710,0.20%,1,-0.10%
+Air Force,Men,AFELM USTRANSCOM,416,0.20%,1,-0.10%
+Air Force,Men,Air Combat Cmd,56986,0.40%,213,0.00%
+Air Force,Men,Air Education and Training,36008,0.40%,160,0.10%
+Air Force,Men,Air Mobility Cmd,37124,0.40%,143,0.00%
+Air Force,Men,Global Strike Command,16755,0.50%,77,0.00%
+Air Force,Men,HQ AF Weather Agency,932,0.30%,3,-0.10%
+Air Force,Men,HQ Air Force Space Command,10340,0.30%,33,0.00%
+Air Force,Men,HQ USAF and Support,1381,0.20%,2,-0.10%
+Air Force,Men,Pacific Air Forces,23705,0.40%,92,0.00%
+Air Force,Men,US Air Force Academy,1273,0.50%,6,0.00%
+Air Force,Men,US Air Forces in Europe,19225,0.40%,81,0.00%
+USMC,Women,MCC No. 007,405,4.30%,18,-1.00%
+USMC,Women,MCC No. 011,164,4.30%,7,0.30%
+USMC,Women,MCC No. 012,206,6.90%,14,-0.50%
+USMC,Women,MCC No. 013,456,7.10%,32,0.40%
+USMC,Women,MCC No. 014,318,6.90%,22,0.30%
+USMC,Women,MCC No. 015,167,6.80%,11,0.30%
+USMC,Women,MCC No. 016,772,7.70%,60,0.00%
+USMC,Women,MCC No. 022,139,9.30%,13,1.30%
+USMC,Women,MCC No. 023,136,4.50%,6,-2.80%
+USMC,Women,MCC No. 082,254,4.40%,11,-0.10%
+USMC,Women,MCC No. 092,184,7.20%,13,-0.10%
+USMC,Women,MCC No. 121,186,8.60%,16,1.00%
+USMC,Women,MCC No. 122,178,8.20%,15,0.50%
+USMC,Women,MCC No. 142,1225,9.00%,110,0.90%
+USMC,Women,MCC No. 143,1427,9.40%,134,0.90%
+USMC,Women,MCC No. 145,594,8.60%,51,-0.30%
+USMC,Women,MCC No. 151,773,8.00%,62,-0.50%
+USMC,Women,MCC No. 169,1002,6.90%,70,-1.20%
+USMC,Women,MCC No. 1C0,539,5.60%,30,-1.80%
+USMC,Women,MCC No. 1C1,282,6.80%,19,-1.90%
+USMC,Women,MCC No. 1C2,457,9.40%,43,-0.20%
+USMC,Women,MCC No. 1F1,209,7.70%,16,0.30%
+USMC,Women,MCC No. 1F2,206,7.80%,16,-0.10%
+USMC,Women,MCC No. G78,177,9.10%,16,-0.90%
+USMC,Women,MCC No. J15,322,8.50%,27,0.40%
+USMC,Women,MCC No. K18,152,14.20%,22,1.20%
+USMC,Women,MCC No. ZZZ,371,7.90%,29,-0.10%
+USMC,Men,MCC No. 007,3529,0.40%,15,-0.10%
+USMC,Men,MCC No. 011,1415,0.30%,4,0.00%
+USMC,Men,MCC No. 012,1940,0.80%,15,0.00%
+USMC,Men,MCC No. 013,3499,0.80%,28,0.00%
+USMC,Men,MCC No. 014,4644,1.00%,47,-0.10%
+USMC,Men,MCC No. 015,1568,0.70%,11,-0.10%
+USMC,Men,MCC No. 016,3234,1.10%,34,0.00%
+USMC,Men,MCC No. 017,3362,1.20%,39,0.00%
+USMC,Men,MCC No. 022,1302,0.90%,11,-0.10%
+USMC,Men,MCC No. 023,784,0.60%,4,-0.30%
+USMC,Men,MCC No. 063,301,0.50%,2,0.00%
+USMC,Men,MCC No. 082,4055,0.50%,22,0.00%
+USMC,Men,MCC No. 091,643,0.90%,6,0.00%
+USMC,Men,MCC No. 092,1184,0.70%,9,0.00%
+USMC,Men,MCC No. 094,2036,0.80%,16,0.20%
+USMC,Men,MCC No. 110,493,0.40%,2,0.00%
+USMC,Men,MCC No. 111,592,0.50%,3,0.10%
+USMC,Men,MCC No. 121,18360,1.60%,287,0.20%
+USMC,Men,MCC No. 122,15386,1.60%,248,0.20%
+USMC,Men,MCC No. 124,5124,1.40%,69,0.10%
+USMC,Men,MCC No. 142,13904,0.90%,126,0.10%
+USMC,Men,MCC No. 143,13443,0.90%,118,0.00%
+USMC,Men,MCC No. 145,5933,0.70%,43,-0.10%
+USMC,Men,MCC No. 151,5962,0.90%,55,-0.10%
+USMC,Men,MCC No. 169,5848,0.70%,43,-0.20%
+USMC,Men,MCC No. 1A5,638,0.80%,5,0.00%
+USMC,Men,MCC No. 1C0,5931,0.60%,38,-0.20%
+USMC,Men,MCC No. 1C1,2830,0.60%,17,-0.10%
+USMC,Men,MCC No. 1C2,3719,0.90%,33,0.00%
+USMC,Men,MCC No. 1F1,3841,1.00%,37,0.00%
+USMC,Men,MCC No. 1F2,1661,0.70%,12,-0.10%
+USMC,Men,MCC No. 233,1054,1.30%,14,0.20%
+USMC,Men,MCC No. G78,2934,0.80%,22,-0.20%
+USMC,Men,MCC No. J15,1815,1.10%,21,-0.10%
+USMC,Men,MCC No. K18,1601,1.20%,19,-0.20%
+USMC,Men,MCC No. K46,1347,0.80%,10,-0.10%
+USMC,Men,MCC No. S8F,1309,0.70%,9,0.00%
+USMC,Men,MCC No. SA5,1186,0.40%,5,0.00%
+USMC,Men,MCC No. SMA,1344,0.70%,10,0.00%
+USMC,Men,MCC No. SR2,533,0.50%,3,0.00%
+USMC,Men,MCC No. TMG,983,0.50%,5,0.00%
+USMC,Men,MCC No. ZZZ,5052,1.00%,50,-0.10%

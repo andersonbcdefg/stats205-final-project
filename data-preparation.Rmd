@@ -1,0 +1,45 @@
+---
+title: "Stats205 Final Project -- Sexual Assault in the Military"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(tidyverse)
+```
+
+## Prepare data
+```{r}
+df <- read_csv("/Users/ben/Desktop/STATS205-Final-Project/data-preparation/military-data.csv") %>%  
+  transmute(
+    Location = `Installation or Command Location`,
+    Service = Service,
+    Gender = Gender, 
+    Sexual.Assault.Risk = `Sexual Assault Risk` %>% 
+      str_replace_all("%", "") %>% as.numeric()
+  ) %>% 
+  pivot_wider(names_from=Gender, values_from=Sexual.Assault.Risk, values_fn=mean) %>% 
+  filter(!is.na(Women), !is.na(Men))
+
+write_csv(df, "/Users/ben/Desktop/STATS205-Final-Project/military-data-prepared.csv")
+```
+
+```{r}
+spline <- smooth.spline(x = df$Men, y = df$Women, spar = 0.5)
+result <- predict(spline, x=seq(0, 3.5, length.out=300))
+df2 <- bind_cols(result$x, result$y)
+names(df2) <- c("x", "y")
+
+ggplot(df, aes(Men, Women)) + 
+  geom_point() + 
+  geom_smooth() +
+  geom_line(data=df2, aes(x, y), size=1, color="firebrick")
+```
+
+## Doing Leave-One-Out CV
+https://www.statology.org/leave-one-out-cross-validation-in-r/
+https://www.rdocumentation.org/packages/caret/versions/6.0-86/topics/trainControl
+https://en.wikipedia.org/wiki/PRESS_statistic
+http://users.stat.umn.edu/~helwig/notes/smooth-notes.html#selecting-the-span-1
+https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/smooth.spline
